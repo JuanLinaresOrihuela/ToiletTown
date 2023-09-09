@@ -1,4 +1,4 @@
-<img src="ToiletTownLogo.jpg" alt="Toilet Town Logo" width="400" height="300">
+<img src="ToiletTownLogo.jpg" alt="Toilet Town Logo" width="500" height="500">
 
 # ToiletTown - Your Guide to Clean and Safe Restrooms in Michigan's Big Cities
 
