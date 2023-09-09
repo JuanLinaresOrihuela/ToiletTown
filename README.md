@@ -1,4 +1,4 @@
-![ToiletTownLogo](ToiletTownLogo.jpg)
+<img src="ToiletTownLogo.jpg" alt="Toilet Town Logo" width="400" height="300">
 
 # ToiletTown - Your Guide to Clean and Safe Restrooms in Michigan's Big Cities
 
