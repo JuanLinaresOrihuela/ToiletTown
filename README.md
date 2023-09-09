@@ -1,4 +1,4 @@
-![ToiletTownLogo](ToiletTownLogo.png)
+![ToiletTownLogo](ToiletTownLogo.jpg)
 
 # ToiletTown - Your Guide to Clean and Safe Restrooms in Michigan's Big Cities
 
