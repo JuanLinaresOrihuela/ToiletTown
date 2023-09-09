@@ -59,6 +59,3 @@ Thank you for choosing ToiletTown – your trusted companion for clean and safe 
 ## Join the ToiletTown Community
 
 We believe in the power of community to make public restroom experiences better for everyone. Join us in our mission to provide reliable restroom information and improve the quality of life in Michigan's cities.
-
-[Follow us on Twitter](#) | [Like us on Facebook](#) | [Contact Support](#)
-
