@@ -1,3 +1,5 @@
+![ToiletTownLogo](ToiletTownLogo.png)
+
 # ToiletTown - Your Guide to Clean and Safe Restrooms in Michigan's Big Cities
 
 Submitted by: Juan Linares Orihuela as the final project for the Apple Foundations Program.
