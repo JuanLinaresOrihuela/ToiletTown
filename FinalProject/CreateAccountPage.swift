@@ -2,7 +2,7 @@
 //  CreateAccountPage.swift
 // 
 //
-//  Created by Sarah Joshi on 8/22/23.
+//  Created by Sarah Joshi on 8/22/23. Edited by Juan Linares 09/10/23
 //
 
 import SwiftUI
@@ -48,13 +48,13 @@ struct CreateAccountPage: View {
                     .textFieldStyle(RoundedBorderTextFieldStyle())
                     .offset(y:-180)
                 
-                TextField("New Password", text: $NewPassword)
+                SecureField("New Password", text: $NewPassword)
                     .frame(width: 223, height: 33)
                     .padding()
                     .textFieldStyle(RoundedBorderTextFieldStyle())
                     .offset(y:-190)
                 
-                TextField("Verify Password", text: $VerifyPassword)
+                SecureField("Verify Password", text: $VerifyPassword)
                     .frame(width: 223, height: 33)
                     .padding()
                     .textFieldStyle(RoundedBorderTextFieldStyle())

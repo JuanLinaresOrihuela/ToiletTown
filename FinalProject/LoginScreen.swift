@@ -2,7 +2,7 @@
 //  LoginScreen.swift
 //  TT2Login
 //
-//  Created by Sarah Joshi on 8/22/23.
+//  Created by Sarah Joshi on 8/22/23. Edited by Juan Linares 09/10/23.
 //
 
 import SwiftUI
@@ -36,7 +36,7 @@ struct LoginScreen: View {
                         .textFieldStyle(RoundedBorderTextFieldStyle())
                         .offset(y:-200)
                     
-                    TextField("Password", text: $password)
+                    SecureField("Password", text: $password)
                         .frame(width: 223, height: 33)
                         .padding()
                         .textFieldStyle(RoundedBorderTextFieldStyle())

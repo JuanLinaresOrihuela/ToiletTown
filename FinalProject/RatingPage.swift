@@ -2,7 +2,7 @@
 //  TT8.swift
 //  ToiletTown
 //
-//  Created by Rhonda Phinisee on 8/22/23.
+//  Created by Rhonda Phinisee on 8/22/23. Edited by Juan Linares 09/10/23
 //
 
 import SwiftUI
